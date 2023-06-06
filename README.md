@@ -7,7 +7,7 @@ Latihan
 4 Lakukan join tabel KrsMahasiswa, Mahasiswa, Matakuliah, dan Dosen
 ```
 ### Tabel Mahasiswa
-![mahasiswa](https://github.com/DimasF3009/Basis-Data-Praktikum-5/assets/115356128/ba1ebd0c-2644-4924-8814-bd297b0e3546)
+![mahasiswa](https://github.com/riskibowo/Basis-Data-Praktikum-5/assets/115356128/ba1ebd0c-2644-4924-8814-bd297b0e3546)
 
 ### Tabel Dosen
 ![dosen](https://github.com/DimasF3009/Basis-Data-Praktikum-5/assets/115356128/e73130cc-78b6-4b2d-ac9b-8c3c08590d13)
